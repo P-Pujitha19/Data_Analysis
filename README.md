@@ -26,4 +26,4 @@ The purpose of this project is to develop an application to demonstrate how the 
 * Prepared the data
 * Performed Exploratory Analysis and Modeling 
 * Validated the given data 
-* Visualized the reults of the project as per the requirements.
+* Visualized the results of the project as per the requirements.
